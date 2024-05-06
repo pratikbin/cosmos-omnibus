@@ -5,7 +5,7 @@
 |Version|`v0.41.8`|
 |Binary|`oraid`|
 |Directory|`oraid`|
-|ENV namespace|`oraichain`|
+|ENV namespace|`oraid`|
 |Repository|`https://github.com/oraichain-network/oraichain`|
 |Image|`ghcr.io/akash-network/cosmos-omnibus:v0.4.15-oraichain-v0.41.8`|
 
